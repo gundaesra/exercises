@@ -179,7 +179,7 @@ for(x, y, z) in list_zip:
     print("The course", y, "that has", x, "credits has", z, "quota.")
 
 ###############################################
-TASK 8: Below are 2 sets.
+# TASK 8: Below are 2 sets.
 # If the 1st set includes the 2nd set, you are expected to define the function that
 # will print the common elements of the two,
 # if not, the difference of the 2nd set from the 1st set.
